@@ -1,0 +1,7 @@
+
+{
+    "ADD_NEW_ADDRESS_PAGE_URL":"https://salaryhero-qa-challenge.herokuapp.com/#/address/create",
+    "LANDING_PAGE_AFTER_LOGIN_URL":"https://salaryhero-qa-challenge.herokuapp.com/#/search",
+    "CHECKOUT_PAGE_URL":"https://salaryhero-qa-challenge.herokuapp.com/#/address/select"
+    
+}

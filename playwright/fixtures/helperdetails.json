@@ -1,0 +1,42 @@
+{
+
+  "placeholdertext":
+  {
+     "PLEASE_PROVIDE_COUNTRY_NAME":"Please provide a country.",
+     "PLEASE_PROVIDE_NAME":"Please provide a name.",
+     "PLEASE_PROVIDE_MOBILE_NUMBER":"Please provide a mobile number.",
+     "PLEASE_PROVIDE_ZIP_CODE":"Please provide a ZIP code.",
+     "PLEASE_PROVIDE_ADDRESS":"Please provide an address.",
+     "PLEASE_PROVIDE_CITY":"Please provide a city.",
+     "PLEASE_PROVIDE_STATES":"Please provide a state."
+
+  },
+
+  "details":
+  {
+      "BACK":"Back",
+      "SEND_SUBMIT":"send Submit",
+      "COUNTRY_NAME":"Thailand",
+      "CITY_NAME":"Bangkok",
+      "MOBILE_NUMBER":"9999999999",
+      "ZIP_CODE":"11111",
+      "ADDRESS":"Rama3,bangkok",
+      "STATES":"Bangkok",
+      "NAME":"Sagar",
+      "ENTER":"Enter",
+      "TAB":"Tab",
+      "BUTTON":"button",
+      "ADD_NEW_ADDRESS":"Add a new address",
+      "MENU_ITEM":"menuitem",
+      "LINK":"link",
+      "SHOW_HIDE":"Show/hide account menu",
+      "GOTO_PROFILE":"Go to user profile",
+      "USER_EMAIL":"test@test.com",
+      "USER_PASSWORD":"Test123#",
+      "ADD_TO_BASKET":"Add to Basket",
+      "APPLE":"apple",
+      "GO_TO_LOGIN_PAGE":"Go to login page"
+      
+
+  }
+}
