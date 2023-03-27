@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "lint": "eslint playwright --max-warnings=0",
-    "run_test_local": "npx playwright  test /e2e --project=chromium --headed worker=1"
+    "run_test_local": "npx playwright  test /e2e --project=chromium  workers=1",
+    "run_test_ci": "npx playwright  test /e2e --project=chromium "
   },
   "keywords": [],
   "author": "",
